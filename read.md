@@ -2,7 +2,7 @@
 # E-commerce Backend
 
 ## Description
-The backend functionality for an ecommerce site with routes and a database
+The backend functionality for an ecommerce site with routes and a connected to a database
 
 ## Table of Contents
 If your README is long, add a table of contents to make it easy for users to find what they need.
